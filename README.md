@@ -1,6 +1,6 @@
 # Messages List Assignment 
 
-![task](https://github.com/WaleedOmar87/senior-frontend-task/blob/main/design.png)
+<img src="https://github.com/WaleedOmar87/senior-frontend-task/blob/main/design.png" alt="" height=400 />
 ## Description 
 The goal is to implement messages box where client can view and filter their social media accounts messages.
 

@@ -1,0 +1,228 @@
+{
+  "status": 200,
+  "messages": [
+    {
+      "id": "b9ae8e8d0d1e",
+      "user_id": "f9d3b6b9c1b5",
+      "message": "ما هو السعر الحالي لأحدث هاتف آيفون؟",
+      "category": {
+        "id": "inquiry",
+        "name": "Inquiry"
+      },
+      "priority": "medium",
+      "platform": "facebook",
+      "date": "2023-09-28",
+      "user_status": "potential_customer",
+      "user_type": "regular",
+      "replied_to": true,
+      "sentiment": "positive"
+    },
+    {
+      "id": "a5c2f3e3c9a6",
+      "user_id": "d8a2e0f7d1c4",
+      "message": "هل لديك أي معلومات عن توفر أجهزة الكمبيوتر المحمولة في متجرك؟",
+      "category": {
+        "id": "inquiry",
+        "name": "Inquiry"
+      },
+      "priority": "high",
+      "platform": "twitter",
+      "date": "2023-09-25",
+      "user_status": "follower",
+      "user_type": "business",
+      "replied_to": false, 
+      "sentiment": "positive"
+    },
+    {
+      "id": "f1b5d6a7b9e3",
+      "user_id": "e0d2a2e9e5d4",
+      "message": "هل يمكنك تزويدي بمواصفات سلسلة أجهزة الكمبيوتر المحمول الجديدة المخصصة للألعاب؟",
+      "category": {
+        "id": "inquiry",
+        "name": "Inquiry"
+      },
+      "priority": "low",
+      "platform": "instagram",
+      "date": "2023-09-23",
+      "user_status": "customer",
+      "user_type": "influencer",
+      "sentiment": "neutral"
+      "replied_to": true, 
+    },
+    {
+      "id": "d5c9b1e2a7f3",
+      "user_id": "c7e6d1a4f9b2",
+      "message": "متى سيتم طرح هاتف Samsung Galaxy الجديد في متجركم؟",
+      "category": {
+        "id": "inquiry",
+        "name": "Inquiry"
+      },
+      "platform": "tiktok",
+      "priority": "medium",
+      "date": "2023-09-20",
+      "user_status": "none",
+      "user_type": "regular",
+      "sentiment": "neutral",
+      "replied_to": true
+    },
+    {
+      "id": "e4d5c3b1a7f9",
+      "user_id": "b9a1e4e3d8c2",
+      "message": "ما هي خيارات تمويل شراء جهاز MacBook Pro جديد؟",
+      "category": {
+        "id": "inquiry",
+        "name": "Inquiry"
+      },
+      "priority": "high",
+      "platform": "youtube",
+      "date": "2023-09-18",
+      "user_status": "follower",
+      "sentiment": "neutral",
+      "user_type": "regular",
+      "replied_to": false
+    },
+    {
+      "id": "a5b1d6c3e2f9",
+      "user_id": "d1e5b6a7f3c2",
+      "message": "هل هناك أي خصومات أو عروض ترويجية متاحة لأحدث iPad Air؟",
+      "category": {
+        "id": "inquiry",
+        "name": "Inquiry"
+      },
+      "platform": "linkedin",
+      "priority": "low",
+      "date": "2023-09-15",
+      "user_status": "potential_customer",
+      "sentiment": "negative",
+      "user_type": "business",
+      "replied_to": true
+    },
+    {
+      "id": "e7a2f4b1d8c5",
+      "user_id": "c7e0b9d1a4f8",
+      "message": "هل يمكنك أن توصي بجهاز كمبيوتر مكتبي عالي الأداء للألعاب؟",
+      "category": {
+        "id": "inquiry",
+        "name": "Inquiry"
+      },
+      "platform": "facebook",
+      "priority": "medium",
+      "date": "2023-09-12",
+      "user_status": "customer",
+      "sentiment": "negative",
+      "user_type": "influencer",
+      "replied_to": true
+    },
+    {
+      "id": "3a5b1c9d2e4f",
+      "user_id": "7b8c5d9e1f3a",
+      "message": "ما هو السعر الحالي للايفون 13؟",
+      "category": {
+        "id": "inquiry",
+        "name": "Inquiry"
+      },
+      "platform": "facebook",
+      "priority": "medium",
+      "date": "2023-09-28",
+      "user_status": "potential_customer",
+      "user_type": "regular",
+      "replied_to": true
+    },
+    {
+      "id": "4b6a1c8d3e5f",
+      "user_id": "9c7d4e2f5a1b",
+      "message": "لدي بعض الأسئلة حول ضمان الكمبيوتر المحمول Dell",
+      "category": {
+        "id": "inquiry",
+        "name": "Inquiry"
+      },
+      "platform": "twitter",
+      "priority": "high",
+      "date": "2023-09-25",
+      "sentiment": "positive",
+      "user_status": "follower",
+      "user_type": "business",
+      "replied_to": false
+    },
+    {
+      "id": "2c4d6e8f1a3b",
+      "user_id": "5d7e9f1a3b4c",
+      "message": "هل يمكنك تزويدي بمواصفات سلسلة أجهزة الكمبيوتر المحمولة المخصصة للألعاب Legion الجديدة؟",
+      "category": {
+        "id": "inquiry",
+        "name": "Inquiry"
+      },
+      "platform": "instagram",
+      "priority": "low",
+      "date": "2023-09-23",
+      "user_status": "customer",
+      "sentiment": "positive",
+      "user_type": "influencer",
+      "replied_to": true
+    },
+    {
+      "id": "9b7c5d3e1f4a",
+      "user_id": "2c4d6e8f1a3b",
+      "message": "متى سيتم إصدار هاتف Samsung Galaxy الذكي الجديد في متجرك؟",
+      "category": {
+        "id": "inquiry",
+        "name": "Inquiry"
+      },
+      "platform": "tiktok",
+      "priority": "medium",
+      "date": "2023-09-20",
+      "sentiment": "positive",
+      "user_status": "none",
+      "user_type": "regular",
+      "replied_to": true
+    },
+    {
+      "id": "5d3e7f1a9b4c",
+      "user_id": "8e6f2a7b5c9d",
+      "message": "ما هي خيارات تمويل شراء هاتف سامسونج S23 الجديد؟",
+      "category": {
+        "id": "inquiry",
+        "name": "Inquiry"
+      },
+      "platform": "youtube",
+      "priority": "high",
+      "date": "2023-09-18",
+      "user_status": "follower",
+      "user_type": "regular",
+      "replied_to": false,
+      "sentiment": "neutral",
+    },
+    {
+      "id": "1c9d5e2f7a3b",
+      "user_id": "4c8d6e3f9a5b",
+      "message": "هل هناك أي خصومات أو عروض ترويجية متاحة لأحدث iPad Air؟",
+      "category": {
+        "id": "inquiry",
+        "name": "Inquiry"
+      },
+      "platform": "linkedin",
+      "priority": "low",
+      "date": "2023-09-15",
+      "user_status": "potential_customer",
+      "sentiment": "neutral",
+      "user_type": "business",
+      "replied_to": true
+    },
+    {
+      "id": "7e1f5a3b9c8d",
+      "user_id": "2e6f4a8b5c9d",
+      "message": "هل يمكنك أن توصي بجهاز كمبيوتر مكتبي عالي الأداء لهندسة البرمجيات؟",
+      "category": {
+        "id": "inquiry",
+        "name": "Inquiry"
+      },
+      "priority": "medium",
+      "platform": "facebook",
+      "date": "2023-09-12",
+      "sentiment": "neutral",
+      "user_status": "customer",
+      "user_type": "influencer",
+      "replied_to": true
+    }
+  ]
+}

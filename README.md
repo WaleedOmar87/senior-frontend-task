@@ -16,7 +16,7 @@ The goal is to implement messages box where client can view and filter their soc
 ### All of the following points are mandatory.
 1. A Loading screen is expected while fetching the data from the json file.
 2. Implementation that matches the provided design.
-4. Use any API Access Layer to store and cache the data, and mutate the data when the user changes category.
+4. Use any API Access Layer to store and cache the data, and mutate the data when the client changes category.
 `RTK Query is preferred, but you can also use React Query or any other alternative that you're familiar with`.
 5. Use React
 6. Implement an `Error Boundaries` pattern to catch and display a user-friendly error message if there's an error in your code.
@@ -27,10 +27,10 @@ The goal is to implement messages box where client can view and filter their soc
 
 ## Requirements 
 1. Sort menu is expected to contain `tag` , `platform`, `status`, `replied_to`.
-- When the user clicks on any of the above, messages should be sorted accordingly.
+- When the client clicks on any of the above, messages should be sorted accordingly.
 2. Message box should display message user name, message text, tag and sentiment status according to the design.
 3. Search box is expected to be functional, 
-- When the user click on the search box a dropdown menu should appear and display search options, Where the user can choose to search by message's user name or message content.
+- When the client click on the search box for the first time, a dropdown menu should appear and display search options, Where the client can choose to search by message's user name or message content.
 - When the client type a string the search box dropdown should display search results from messages.
 4. Functional pagination section is expected at the bottom
 

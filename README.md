@@ -26,7 +26,7 @@ The goal is to implement messages box where client can view and filter their soc
 10. Follow flux guidelines when it comes to state management and data flow.
 
 ## Requirements 
-### Note: 100% completion is not required, But make sure to finish at least the first 4 requirements.
+### Note: 100% completion is not required, But make sure to finish at least the first 2 requirements.
 1. Sort menu is expected to contain `tag` , `platform`, `status`, `replied_to`.
 - When the user clicks on any of the above, messages should be sorted accordingly.
 2. Message box should display message user name, message text, tag and sentiment status according to the design.
